@@ -3,6 +3,8 @@
 <h2 align="center">Meu nome é Leonardo, mas pode me chamar de Leo</h2> </br></br>
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei meus estudos em programação no final de 2022 pela Alura e, atualmente, estou me esforçando para me desenvolver e aprender a ser um bom programador.</p>
 
+![shiba](https://github.com/LeoGB09/LeoGB09/assets/103287763/0498c904-67aa-4bd3-a5db-e11a7070a2bb)
+
 
 <h1 align="center">Tecnologias</h1></br>
 </br>
@@ -20,7 +22,7 @@
   <a href="https://www.linkedin.com/in/leonardo-gb/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
+<div align="center">
 <a href="https://github.com/LeoGB09">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGB09&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGB09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
