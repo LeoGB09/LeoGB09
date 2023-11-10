@@ -3,6 +3,6 @@
 ## Meu nome é Leonardo, mas pode me chamar de Leo.
 
 Sou estudante de Analise e Desenvolvimento de sistemas, comecei meus estudos em programação no final de 2022, e desde então, venho estudando algumas tecnoligias como: <br/>
-<div align="center" padding="20px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" height="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" height="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80px" height="80px"/>
+<div align="center" padding="200px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" height="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" height="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80px" height="80px"/>
 <div/>
 
