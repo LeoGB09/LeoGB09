@@ -1,9 +1,9 @@
 <h1 align="center">Olá, seja bem vindo ao meu perfil no GitHub</h1> 
 
 <h2 align="center">Meu nome é Leonardo, mas pode me chamar de Leo</h2> </br></br>
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei meus estudos em programação no final de 2022 pela Alura e, atualmente, estou me esforçando para me desenvolver e aprender a ser um bom programador.</p>
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei meus estudos em programação no final de 2022 pela Alura e, atualmente, estou me esforçando para me desenvolver e aprender a ser um bom programador.![shiba](https://github.com/LeoGB09/LeoGB09/assets/103287763/0498c904-67aa-4bd3-a5db-e11a7070a2bb)</p>
 
-![shiba](https://github.com/LeoGB09/LeoGB09/assets/103287763/0498c904-67aa-4bd3-a5db-e11a7070a2bb)
+
 
 
 <h1 align="center">Tecnologias</h1></br>
