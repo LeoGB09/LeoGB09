@@ -1,6 +1,7 @@
 # Olá, seja bem vindo ao meu perfil no GitHub
 
-## Meu nome é Leonardo, mas pode me chamar de Leo.
+## Meu nome é Leonardo, mas pode me chamar de Leo.<br/><br/><br/>
+
 
 <h1 align="center">Tecnologias<h1/>
 <br/>
