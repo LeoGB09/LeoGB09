@@ -2,12 +2,10 @@
 
 <h2 align="center">Meu nome é Leonardo, mas pode me chamar de Leo</h2> </br></br>
 <div><p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei meus estudos em programação no final de 2022 pela Alura e, atualmente, estou me esforçando para me desenvolver e aprender a ser um bom programador.</p> 
-  
-
 </div>
-![shiba](https://github.com/LeoGB09/LeoGB09/assets/103287763/75f77e19-8e15-412f-ae8e-b089caa36787)
 
 
+![shiba](https://github.com/LeoGB09/LeoGB09/assets/103287763/d9fef352-1b58-496f-bd50-c7f81a3df2eb)
 
 
 <h1 align="center">Tecnologias</h1></br>
